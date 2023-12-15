@@ -1,0 +1,58 @@
+{
+    "menu": {
+        "home": "Главная страница",
+        "productPage": "Товары",
+        "cart": "Корзина"
+    },
+    "homePage": {
+        "mainTitle": "Добро пожаловать в наш магазин !",
+        "subTitle": "Пожалуйста, передите на страницу товаров !"
+    },
+    "productPage": {
+        "mainTitle": "Ноутбуки"
+    },
+    "cartPage": {
+        "cartTitle": "Пожалуста, войдите в ваш аккаунт для просмотра ваших товаров.",
+        "cartPrice": "грн"
+    },
+    "filters": {
+        "title": "Фильтр",
+        "seller": "Продавец",
+        "brand": "Бренд",
+        "searchPlaceholder": "Поиск",
+        "dropFilters": "Сбросить фильтр",
+        "empty": "Список пуст"
+    },
+    "actionTitles": {
+        "image": "Картинка",
+        "titleEN": "Название на английском",
+        "titleRU": "Название на русском",
+        "brand": "Бренд",
+        "price": "Цена",
+        "seller": "Продавец",
+        "cancel": "Отмена",
+        "total": "Общая сумма",
+        "quantity": "Количество"
+    },
+    "login": {
+        "logIn": "Вход",
+        "logOut": "Выход"
+    },
+    "languages": {
+        "currentLanguage": "Текущий язык"
+    },
+    "errors": {
+        "noProductsError": "Таких товаров нет!"
+    },
+    "cart": {
+        "cartTitle": "Ваша корзина товаров!",
+        "total": "Общая сумма",
+        "back": "Назад",
+        "empty": "Список товаров пуст!"
+    },
+    "actionTitlesBtn": {
+        "addToCart": "Добавить",
+        "deleteToCart": "Удалить",
+        "editToCart": "Изменить"
+    }
+}

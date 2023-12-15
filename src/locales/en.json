@@ -1,0 +1,59 @@
+{
+    "menu": {
+        "home": "Home page",
+        "productPage": "Product Page",
+        "cart": "Cart Page"
+    },
+    "homePage": {
+        "mainTitle": "Welcome to our store !",
+        "subTitle": "Please go to the products page!"
+    },
+    "productPage": {
+        "mainTitle": "Laptops"
+    },
+    "cartPage": {
+        "cartTitle": "Please login to your account to view your items.",
+        "cartPrice": "UAH"
+    },
+
+    "filters": {
+        "title": "Filter",
+        "seller": "Seller",
+        "brand": "Brand",
+        "searchPlaceholder": "Search",
+        "dropFilters": "Drop Filters",
+        "empty": "Empty list"
+    },
+    "actionTitles": {
+        "image": "Image",
+        "titleEN": "English title",
+        "titleRU": "Russia title",
+        "brand": "Brand",
+        "price": "Price",
+        "seller": "Seller",
+        "cancel": "Cancel",
+        "total": "Total price",
+        "quantity": "Quantity"
+    },
+    "login": {
+        "logIn": "Log In",
+        "logOut": "Log Out"
+    },
+    "languages": {
+        "currentLanguage": "Current language"
+    },
+    "errors": {
+        "noProductsError": "There are no such products"
+    },
+    "cart": {
+        "cartTitle": "Your shopping cart!",
+        "total": "Total Price",
+        "back": "Back",
+        "empty": "Items list is empty!"
+    },
+    "actionTitlesBtn": {
+        "addToCart": "Add",
+        "deleteToCart": "Delete",
+        "editToCart": "Edit"
+    }
+}
